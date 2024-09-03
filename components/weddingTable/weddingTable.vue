@@ -88,7 +88,7 @@
 import {ref, computed, onMounted, watch} from 'vue'
 import {useRoute} from 'vue-router'
 import DataTable from '/components/dataTable/dataTable.vue'
-import TableControls from '/components/tableControls/TableControls.vue'
+import TableControls from '/components/tableControls/tableControls.vue'
 
 const headers = ['Ad-Soyad', 'Masa Numarası', 'Masa Kişi Sayısı']
 
