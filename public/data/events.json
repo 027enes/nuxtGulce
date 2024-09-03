@@ -1,0 +1,142 @@
+{
+  "events": [
+    {
+      "eventName": "Serkan & Gül Düğünü",
+      "eventType": "Düğün",
+      "location": "Gaziantep",
+      "dateTime": "17/09/2024 10:16",
+      "attendees": [
+        {
+          "name": "Emre Öztürk",
+          "tableNumber": "3",
+          "peopleAtTable": "1 ",
+          "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Fatma Öztürk",
+          "tableNumber": "1",
+          "peopleAtTable": "9 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Serkan Kurt",
+          "tableNumber": "4",
+          "peopleAtTable": "4 ",
+            "phoneNumber": "0532 123 45 67"
+        }
+      ],
+      "slug": "serkan-gul-dugunu"
+    },
+    {
+      "eventName": "Murat & Hülya Düğünü",
+      "eventType": "Düğün",
+      "location": "İzmir",
+      "dateTime": "05/05/2025 05:21",
+      "attendees": [
+        {
+          "name": "Murat Öztürk",
+          "tableNumber": "2",
+          "peopleAtTable": "7 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Serkan Şahin",
+          "tableNumber": "10",
+          "peopleAtTable": "9 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Zeynep Yılmaz",
+          "tableNumber": "6",
+          "peopleAtTable": "5 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Murat Arslan",
+          "tableNumber": "1",
+          "peopleAtTable": "10 ",
+            "phoneNumber": "0532 123 45 67"
+        }
+      ],
+      "slug": "murat-hulya-dugunu"
+    },
+    {
+      "eventName": "Ahmet & Zeynep Düğünü",
+      "eventType": "Düğün",
+      "location": "Gaziantep",
+      "dateTime": "16/04/2025 06:55",
+      "attendees": [
+        {
+          "name": "Fatma Yılmaz",
+          "tableNumber": "6",
+          "peopleAtTable": "2 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Murat Kaya",
+          "tableNumber": "1",
+          "peopleAtTable": "8 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Ahmet Demir",
+          "tableNumber": "7",
+          "peopleAtTable": "7 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Emre Şahin",
+          "tableNumber": "7",
+          "peopleAtTable": "7 ",
+            "phoneNumber": "0532 123 45 67"
+        }
+      ],
+      "slug": "ahmet-zeynep-dugunu"
+    },
+    {
+      "eventName": "Emre & Fatma Düğünü",
+      "eventType": "Kına",
+      "location": "Bursa",
+      "dateTime": "26/12/2024 09:54",
+      "attendees": [
+        {
+          "name": "Ayşe Kılıç",
+          "tableNumber": "3",
+          "peopleAtTable": "2 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Murat Kurt",
+          "tableNumber": "6",
+          "peopleAtTable": "1 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Zeynep Arslan",
+          "tableNumber": "2",
+          "peopleAtTable": "2 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Hülya Kurt",
+          "tableNumber": "10",
+          "peopleAtTable": "2 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Zeynep Çelik",
+          "tableNumber": "7",
+          "peopleAtTable": "5 ",
+            "phoneNumber": "0532 123 45 67"
+        },
+        {
+          "name": "Serkan Yılmaz",
+          "tableNumber": "9",
+          "peopleAtTable": "7 ",
+            "phoneNumber": "0532 123 45 67"
+        }
+      ],
+      "slug": "emre-fatma-dugunu"
+    }
+  ]
+}
